@@ -1,4 +1,2 @@
-# First-repository
-This my first repository creation on github
-# Second-repository
-This my second heading.
+# C PROGRAMMING LAB
+This my first repository creation on github.I am starting my coding journey from today onwards.

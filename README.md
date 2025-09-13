@@ -1,5 +1,2 @@
-# MY FAVOURITE PROGRAMMING LANGUAGES
-* JAVA
-* PYTHON
-* C++
-* C
+# COMPUTER PROGRAMMING :
+** Programming can be done using different programming languages.
